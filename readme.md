@@ -12,6 +12,6 @@ $ ./node_modules/.bin/mocha -w
 
 This uses http://mochajs.org/ for a test framework with shouldjs for BDD style assertions https://github.com/shouldjs/should.js
 
-open bowling_kata.html ( http://aheld.github.io/bowling-score/ ) in a browser for step by step directions
+open presentation.md ( http://aheld.github.io/bowling-score/ ) in a browser for step by step directions
 
 ##No reading ahead!
