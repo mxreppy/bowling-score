@@ -6,7 +6,7 @@ game.prototype.roll = function(pins){
 
 
 game.prototype.score = function(){
-	return -1;
+	return 0;
 }
 
 if (typeof module != 'undefined') {

@@ -1,0 +1,26 @@
+{
+  "name": "bowling-score",
+  "version": "1.0.0",
+  "description": "kata",
+  "main": "bowl.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mxreppy/bowling-score.git"
+  },
+  "author": "mxreppy@liquidhub.com, aaron.held@nrg.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxreppy/bowling-score/issues"
+  },
+  "homepage": "https://github.com/mxreppy/bowling-score",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.4.4"
+  }
+}
