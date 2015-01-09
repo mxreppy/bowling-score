@@ -1,14 +1,14 @@
 var game = function game(){
-    this.sum = 0;
 }
 
 game.prototype.roll = function(pins){
-    this.sum += pins;
 }
 
 
 game.prototype.score = function(){
-	return this.sum;
+	return -1;
 }
 
-module.exports.game = game
+if (typeof module != 'undefined') {
+    module.exports.game = game
+}
