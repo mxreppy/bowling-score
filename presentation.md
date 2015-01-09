@@ -167,3 +167,13 @@ Rolls:
 
 ### As for project orders (requirements, goals): 
 ##Klingons do not deliver; we EXECUTE. For the glory of the empire!
+
+---
+
+# Credits
+
+- Images and inspiration from this post: 
+http://pixelhandler.com/posts/bowling-game-kata-using-mocha-bdd-test-framework-and-yeoman
+
+- Unclebob's original post
+http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata
