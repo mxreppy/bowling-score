@@ -91,10 +91,9 @@ Use *Working Code* as tests for test code
 
 If all rolls are less than or equal to 4, the score is the sum of the rolls 
 
-- roll 3 10 times
-- roll 4 10 times
-
-- score should be 70
+- roll '3' 10 times
+- roll '4' 10 times
+    - score should be 70
 
 ---
 
@@ -102,10 +101,9 @@ If all rolls are less than or equal to 4, the score is the sum of the rolls
 
 if we roll a 5 three times, and then all zeros the score should be 15
 
-- roll a 5 3 times
-- roll 0 17 times
-
-- Score should be 15
+- roll '5' 3 times
+- roll '0' 17 times
+    - Score should be 15
 
 You may need to remove this test, refactor, then procede 
 
@@ -119,10 +117,10 @@ You may need to remove this test, refactor, then procede
 
 if we roll a Strike , then a 3 two times, and then all zeros the score should be 16
 
-- roll a 10 one time
-- roll a 3 two times
-
-- Score should be 15
+- roll '10' one time
+- roll '3' two times
+- roll '0' 16 times
+    - Score should be 15
 
 ---
 
@@ -167,4 +165,5 @@ Rolls:
 - the lowest roll is considered ghojwI' (“student”)
 - two consective 0 rolls earns bIj (“punishment”) of -10
 
-## As for project orders (requirements, goals): Klingons do not deliver; we EXECUTE. For the glory of the empire!
+### As for project orders (requirements, goals): 
+##Klingons do not deliver; we EXECUTE. For the glory of the empire!
